@@ -1,0 +1,19 @@
+/* RGB RED GREEN BLUE 0-255 */
+
+#first {
+  color: hsl(0, 100%, 50%);
+  background: #000;
+}
+#second {
+  color: #ff0000;
+  background: #000;
+}
+#three {
+  color: #ff0000;
+  background: #000;
+}
+#four {
+  color: #ff0000;
+  background: #000;
+}
+  
