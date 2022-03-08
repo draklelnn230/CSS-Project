@@ -1,19 +1,21 @@
-/* RGB RED GREEN BLUE 0-255 */
+* {
+  margin: 0;
+}
 
-#first {
-  color: hsl(0, 100%, 50%);
-  background: #000;
+.navbar {
+  background: blue;
+  height: 6rem;
+  color: white;
+  font-size: 3rem;
 }
-#second {
-  color: #ff0000;
-  background: #000;
+
+.banner {
+  background: red;
+  min-height: calc(100vh - 6rem);
 }
-#three {
-  color: #ff0000;
-  background: #000;
+.example {
+  background: green;
+  width: 10rem;
+  height: 20rem;
+  overflow: scroll;
 }
-#four {
-  color: #ff0000;
-  background: #000;
-}
-  
